@@ -1,0 +1,23 @@
+{
+  "name": "bucketlist",
+  "version": "1.0.0",
+  "description": "A simple Collections Of Item In a bucket",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BucketList",
+    "List",
+    "RESTful",
+    "api"
+  ],
+  "author": "Horpschenzy",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.16"
+  }
+}
